@@ -1,7 +1,10 @@
+
+
 const CustomComponent = ()=>{
-    return(
+
+    return (
         <>
-            <h2>02_CUSTOMCOMPONENT...</h2>
+            <h2>02_CUSTOM_COMPONENT...</h2>
         </>
     )
 }
